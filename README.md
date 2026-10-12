@@ -1,4 +1,4 @@
-Hey, I'm Joemari. A software enthusiast currently working in @TheBondyApp 
+Hey, I'm Joemari. A software enthusiast who is currently working [@TheBondyApp](https://github.com/TheBondyApp) and building cool stuff part-time.
 <!-- ## Hi there 👋 -->
 
 <!--
