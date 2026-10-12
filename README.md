@@ -1,6 +1,6 @@
 Hey, I'm Joemari. A software enthusiast who is currently working [@TheBondyApp](https://github.com/TheBondyApp) and building cool stuff part-time.
 
-- https://www.clinosys.io/ (Not active in development)
+- [Clinosys](https://www.clinosys.io/) (not active in development). is a concept for an AI-powered clinical documentation platform for therapists in private practice. It listens in the background during a session, identifies who is speaking, and produces a structured SOAP note ready to review and sign the moment the session ends. It also lets therapists ask plain-language questions about a patient's history, with answers that cite the exact sessions, and it flags recurring themes or emerging risks across all of their patients.
 
 <!-- ## Hi there 👋 -->
 
