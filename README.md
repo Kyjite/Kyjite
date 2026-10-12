@@ -1,4 +1,5 @@
-## Hi there 👋
+Hey, I'm Joemari. A software enthusiast currently working in @TheBondyApp 
+<!-- ## Hi there 👋 -->
 
 <!--
 **Kyjite/Kyjite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
