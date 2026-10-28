@@ -1,6 +1,7 @@
 Hey, I'm Joemari. A software enthusiast who is currently working [@TheBondyApp](https://github.com/TheBondyApp) and building cool stuff part-time.
 
 - [Clinosys](https://www.clinosys.io/) (not active in development).
+- [Tesna](https://tesna.dev)
 
 <!-- ## Hi there 👋 -->
 
